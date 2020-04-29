@@ -1,4 +1,4 @@
-#!/mnt/e/projects/web-projects/django/custom-user-account/env/bin/python
+#!/mnt/e/projects/web-projects/django/Custom-User-Model-Django/env/bin/python
 from django.core import management
 
 if __name__ == "__main__":

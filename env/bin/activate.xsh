@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/mnt/e/projects/web-projects/django/custom-user-account/env"
+$VIRTUAL_ENV = r"/mnt/e/projects/web-projects/django/Custom-User-Model-Django/env"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

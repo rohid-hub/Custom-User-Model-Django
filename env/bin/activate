@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='/mnt/e/projects/web-projects/django/custom-user-account/env'
+VIRTUAL_ENV='/mnt/e/projects/web-projects/django/Custom-User-Model-Django/env'
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
